@@ -1,1 +1,5 @@
 /venv/.gitignore
+/venv/pyvenv.cfg
+/venv/
+/.idea/
+__pycache__/
